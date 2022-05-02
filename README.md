@@ -1,4 +1,4 @@
-- 👋 Hi, I’mNam
+- 👋 Hi, I’m Nam
 - 👀 I’m interested in deep learning for behavior modelling 
 - 🌱 I’m currently learning deep learning 
 - 💞️ I’m looking to collaborate on interesting ML projects
