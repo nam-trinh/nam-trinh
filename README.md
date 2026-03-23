@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Nam
-- 👀 I’m interested in deep learning for behavior modelling 
-- 🌱 I’m currently learning deep learning 
+- 👀 I’m interested in AI Agents/NLP.
 - 💞️ I’m looking to collaborate on interesting ML projects
-- 📫 You can reach me through my professional email: nam.trinh2(at)mail.dcu.ie
+- 📫 You can reach me through my professional email: trinh.hoai.nam.93(at)gmail.com
 
 <!---
 nam-trinh/nam-trinh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
